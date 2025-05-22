@@ -1,9 +1,32 @@
-- 👋 Hi, I’m @BrianMurphyEcon
-- 👀 I’m an economist interested in labor, education, human capital, development and health economics! Outside of school I am a big sports fan and cheer for all teams from Philadelphia!
-- 🌱 I’m looking to collaborate on economics research, particularly in my areas of interest.
-- 📫 Send me an email: bmmurphy2@uh.edu
+### 👋 Hi, I’m Brian Murphy (@BrianMurphyEcon)
 
-<!---
-BrianMurphyEcon/BrianMurphyEcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a PhD student in Economics with a passion for applied microeconomics research. My interests lie at the intersection of:
+
+- 🎓 Education Economics  
+- 💼 Labor & Human Capital  
+- 🌍 Development Economics  
+
+When I'm not coding or writing papers, you'll probably find me watching Philly sports — go Birds, Phillies, Sixers, and Flyers! 🦅⚾🏀🏒
+
+---
+
+### 👀 What I'm Looking For
+
+I'm eager to collaborate on empirical research projects in economics, especially in:
+
+- Education and inequality  
+- Labor market sorting and job networks  
+- Health outcomes in low-income populations  
+- Field experiments and policy evaluations
+
+If you have an idea or dataset in these areas, let’s talk!
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: [bmmurphy2@uh.edu](mailto:bmmurphy2@uh.edu)
+  
+---
+
+Thanks for stopping by!
