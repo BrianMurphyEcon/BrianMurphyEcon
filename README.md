@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Brian Murphy (@BrianMurphyEcon)
+### 👋 Hi, I’m Brian Murphy!
 
 I'm a PhD student in Economics. My interests lie at the intersection of:
 
