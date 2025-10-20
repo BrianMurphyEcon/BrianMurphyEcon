@@ -3,8 +3,7 @@
 I'm a PhD student in Economics. My interests lie at the intersection of:
 
 - 🎓 Education Economics  
-- 💼 Labor & Human Capital  
-- 🌍 Development Economics  
+- 💼 Labor Economics 
 
 When I'm not coding or writing papers, you'll find me watching Philly sports — go Birds, Phillies, Sixers, and Flyers! 🦅⚾🏀🏒
 
@@ -15,9 +14,7 @@ When I'm not coding or writing papers, you'll find me watching Philly sports —
 I would love to collaborate on empirical research projects in economics, especially in:
 
 - Education and inequality  
-- Labor market sorting and job networks  
-- Health outcomes in low-income populations  
-- Field experiments and policy evaluations
+- Labor market sorting
 
 If you have an idea or dataset in these areas, let’s chat!
 
