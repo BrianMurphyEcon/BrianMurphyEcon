@@ -2,7 +2,7 @@
 
 I'm a PhD student in Economics. My interests lie at the intersection of:
 
-- 🎓 Education Economics  
+- 🎓 Economics of Education
 - 💼 Labor Economics 
 
 When I'm not coding or writing papers, you'll find me watching Philly sports — go Birds, Phillies, Sixers, and Flyers! 🦅⚾🏀🏒
